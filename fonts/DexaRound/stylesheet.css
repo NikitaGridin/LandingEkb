@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-Bold.eot');
+    src: local('Dexa Round Bold'), local('DexaRound-Bold'),
+        url('DexaRound-Bold.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-Bold.woff2') format('woff2'),
+        url('DexaRound-Bold.woff') format('woff'),
+        url('DexaRound-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-Light.eot');
+    src: local('Dexa Round Light'), local('DexaRound-Light'),
+        url('DexaRound-Light.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-Light.woff2') format('woff2'),
+        url('DexaRound-Light.woff') format('woff'),
+        url('DexaRound-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-LightItalic.eot');
+    src: local('Dexa Round Light Italic'), local('DexaRound-LightItalic'),
+        url('DexaRound-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-LightItalic.woff2') format('woff2'),
+        url('DexaRound-LightItalic.woff') format('woff'),
+        url('DexaRound-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-Thin.eot');
+    src: local('Dexa Round Thin'), local('DexaRound-Thin'),
+        url('DexaRound-Thin.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-Thin.woff2') format('woff2'),
+        url('DexaRound-Thin.woff') format('woff'),
+        url('DexaRound-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-ExtraLightItalic.eot');
+    src: local('Dexa Round Extra Light Italic'), local('DexaRound-ExtraLightItalic'),
+        url('DexaRound-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-ExtraLightItalic.woff2') format('woff2'),
+        url('DexaRound-ExtraLightItalic.woff') format('woff'),
+        url('DexaRound-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-ThinItalic.eot');
+    src: local('Dexa Round Thin Italic'), local('DexaRound-ThinItalic'),
+        url('DexaRound-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-ThinItalic.woff2') format('woff2'),
+        url('DexaRound-ThinItalic.woff') format('woff'),
+        url('DexaRound-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-MediumItalic.eot');
+    src: local('Dexa Round Medium Italic'), local('DexaRound-MediumItalic'),
+        url('DexaRound-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-MediumItalic.woff2') format('woff2'),
+        url('DexaRound-MediumItalic.woff') format('woff'),
+        url('DexaRound-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-SemiBold.eot');
+    src: local('Dexa Round Semi Bold'), local('DexaRound-SemiBold'),
+        url('DexaRound-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-SemiBold.woff2') format('woff2'),
+        url('DexaRound-SemiBold.woff') format('woff'),
+        url('DexaRound-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-Regular.eot');
+    src: local('Dexa Round Regular'), local('DexaRound-Regular'),
+        url('DexaRound-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-Regular.woff2') format('woff2'),
+        url('DexaRound-Regular.woff') format('woff'),
+        url('DexaRound-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-Medium.eot');
+    src: local('Dexa Round Medium'), local('DexaRound-Medium'),
+        url('DexaRound-Medium.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-Medium.woff2') format('woff2'),
+        url('DexaRound-Medium.woff') format('woff'),
+        url('DexaRound-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-ExtraLight.eot');
+    src: local('Dexa Round Extra Light'), local('DexaRound-ExtraLight'),
+        url('DexaRound-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-ExtraLight.woff2') format('woff2'),
+        url('DexaRound-ExtraLight.woff') format('woff'),
+        url('DexaRound-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-RegularItalic.eot');
+    src: local('Dexa Round Regular Italic'), local('DexaRound-RegularItalic'),
+        url('DexaRound-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-RegularItalic.woff2') format('woff2'),
+        url('DexaRound-RegularItalic.woff') format('woff'),
+        url('DexaRound-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-SemiBoldItalic.eot');
+    src: local('Dexa Round Semi Bold Italic'), local('DexaRound-SemiBoldItalic'),
+        url('DexaRound-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-SemiBoldItalic.woff2') format('woff2'),
+        url('DexaRound-SemiBoldItalic.woff') format('woff'),
+        url('DexaRound-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-BlackItalic.eot');
+    src: local('Dexa Round Black Italic'), local('DexaRound-BlackItalic'),
+        url('DexaRound-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-BlackItalic.woff2') format('woff2'),
+        url('DexaRound-BlackItalic.woff') format('woff'),
+        url('DexaRound-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-Black.eot');
+    src: local('Dexa Round Black'), local('DexaRound-Black'),
+        url('DexaRound-Black.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-Black.woff2') format('woff2'),
+        url('DexaRound-Black.woff') format('woff'),
+        url('DexaRound-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-BoldItalic.eot');
+    src: local('Dexa Round Bold Italic'), local('DexaRound-BoldItalic'),
+        url('DexaRound-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-BoldItalic.woff2') format('woff2'),
+        url('DexaRound-BoldItalic.woff') format('woff'),
+        url('DexaRound-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-ExtraBoldItalic.eot');
+    src: local('Dexa Round Extra Bold Italic'), local('DexaRound-ExtraBoldItalic'),
+        url('DexaRound-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-ExtraBoldItalic.woff2') format('woff2'),
+        url('DexaRound-ExtraBoldItalic.woff') format('woff'),
+        url('DexaRound-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dexa Round';
+    src: url('DexaRound-ExtraBold.eot');
+    src: local('Dexa Round Extra Bold'), local('DexaRound-ExtraBold'),
+        url('DexaRound-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('DexaRound-ExtraBold.woff2') format('woff2'),
+        url('DexaRound-ExtraBold.woff') format('woff'),
+        url('DexaRound-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
